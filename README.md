@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Github Stats
+<img src="https://i.imgur.com/VU3YT6w.webp" alt="YAY!~" />
 ![ST4RCHASER's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST4RCHASER&show_icons=true&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)
 <!--
