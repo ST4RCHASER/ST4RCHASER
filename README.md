@@ -1,8 +1,21 @@
-### Hi there 👋
-### Github Stats
+### Hi, my name is karen or starchaser :x
+
+Just a addict megumin person
+I'm trying to move from java to JS and TS
+
 <img src="https://i.imgur.com/VU3YT6w.webp" alt="YAY!~" />
+### Github Stats
 ![ST4RCHASER's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST4RCHASER&show_icons=true&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)
+## My Feature Projects :x
+- [MagicNumbers](https://github.com/ST4RCHASER/MagicNumbers)
+  - My frist chrome extension. easy to find secret by double click! [Store page](https://chrome.google.com/webstore/detail/magicnumbers/eachmpbcaoeffcmbeokmafkgdaffedpi)
+- [maimaidx-songs-database](https://github.com/ST4RCHASER/maimaidx-songs-database) 
+  - an maimaidx rest api using express
+- [K4REN Discord Bot](http://karen.starchaser.me/)
+  - utility discordbot
+- [MC-DangerRun](https://github.com/ST4RCHASER/DangerRun)
+  - When i try to make minecraft minigame and only using packet to process game?
 <!--
 **ST4RCHASER/ST4RCHASER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
