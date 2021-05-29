@@ -2,7 +2,7 @@
 
 Just a addict megumin person
 
-I'm really link star symbols don't know why ❤️
+I'm really like star symbols don't know why ❤️
 
 I'm trying to move from java to JS and TS
 
