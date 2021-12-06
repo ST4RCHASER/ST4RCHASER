@@ -9,6 +9,8 @@ I'm trying to move from java to JS and TS
 <img src="https://i.imgur.com/VU3YT6w.webp" alt="YAY!~" />
 
 ## 🔦 My Feature Projects :x
+- [Hareshi Project](https://hareshi.net)
+  - Find any anime have license in thailand
 - [MagicNumbers](https://github.com/ST4RCHASER/MagicNumbers)
   - My frist chrome extension. easy to find secret by double click! [Store page](https://chrome.google.com/webstore/detail/magicnumbers/eachmpbcaoeffcmbeokmafkgdaffedpi)
 - [maimaidx-songs-database](https://github.com/ST4RCHASER/maimaidx-songs-database) 
