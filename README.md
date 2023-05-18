@@ -2,7 +2,7 @@
 
 Just a addict megumin person
 
-I'm currently working @yue-sh (freelance)
+I'm currently working at [@yue-sh](https://github.com/yue-sh) (freelance)
 
 <img src="https://i.imgur.com/VU3YT6w.webp" alt="YAY!~" />
 
