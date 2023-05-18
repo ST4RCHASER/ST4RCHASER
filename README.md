@@ -2,9 +2,7 @@
 
 Just a addict megumin person
 
-I'm really like star symbols don't know why ❤️
-
-I'm trying to move from java to JS and TS
+I'm currently working @yue-sh (freelance)
 
 <img src="https://i.imgur.com/VU3YT6w.webp" alt="YAY!~" />
 
