@@ -2,7 +2,7 @@
 
 Just a addict megumin person
 
-I'm currently working at [@synoralab](https://github.com/synoralab) and [@yue-sh](https://github.com/yue-sh) free freelance
+I'm currently working at [@synoralab](https://github.com/synoralab) and [@yue-sh](https://github.com/yue-sh) as freelance
 
 <img src="https://i.imgur.com/VU3YT6w.webp" alt="YAY!~" />
 
