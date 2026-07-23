@@ -19,8 +19,8 @@ I'm currently working at [@synoralab](https://github.com/synoralab) and [@yue-sh
   - When i try to make minecraft minigame and only using packet to process game?
 
 ## 📈 Github Stats
-[![ST4RCHASER's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST4RCHASER&show_icons=true&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![ST4RCHASER's GitHub stats](https://github-stats-extended.vercel.app/api?username=ST4RCHASER&show_icons=true&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=b19cd9&icon_color=b19cd9&border_color=0D1117&text_color=b19cd9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ST4RCHASER/ST4RCHASER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
